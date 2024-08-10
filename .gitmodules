@@ -1,0 +1,3 @@
+[submodule "batch-estate-engine"]
+	path = batch-estate-engine
+	url = https://github.com/dsadara/batch-estate-engine
