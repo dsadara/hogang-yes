@@ -1,3 +1,6 @@
 [submodule "batch-estate-engine"]
 	path = batch-estate-engine
 	url = https://github.com/dsadara/batch-estate-engine
+[submodule "hogang-yes-api"]
+	path = hogang-yes-api
+	url = https://github.com/dsadara/hogang-yes-api
