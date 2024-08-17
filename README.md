@@ -31,7 +31,7 @@ Travis CI로 **자동 빌드**를 구현했고, Amazon S3, Amazon CodeDeploy로 
 
 ## 아키텍쳐
 
-![hogang-yes-architecture drawio](https://github.com/user-attachments/assets/39f3c37c-7ba2-4182-80c1-f96c23815d6b)
+![hogang-yes-architecture drawio](https://github.com/user-attachments/assets/a37297b7-f7d8-4932-8271-75b208398dad)
 
 ## 문제 해결 과정
 
