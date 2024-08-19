@@ -43,4 +43,6 @@ Travis CI로 **자동 빌드**를 구현했고, Amazon S3, Amazon CodeDeploy로 
 
 ## 데이터베이스 스키마
 
+<img width="600" alt="image" src="https://github.com/dsadara/batch-estate-engine/assets/22488593/8ccc4023-f090-435a-909e-968d5812ab67">
+
 ## 시퀀스 다이어그램
