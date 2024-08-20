@@ -12,6 +12,8 @@
 
 일괄 처리로 부동산 데이터를 수집하는 모듈입니다. **Spring Batch의 chunk 지향 처리 기능**을 사용하여 구현했습니다.
 
+![batch-estate-engine-sequence drawio](https://github.com/user-attachments/assets/f9f89db6-3e69-444c-90e8-44640bb25a0b)
+
 chunk 지향 처리를 담당하는 step은 3가지로 구성되어 있습니다.
 
 1. **ItemReader**: 공공데이터포털 API를 호출해서 얻은 Json 데이터를 DTO로 파싱합니다.
