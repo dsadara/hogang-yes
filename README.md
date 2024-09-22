@@ -24,6 +24,9 @@ chunk 지향 처리를 담당하는 step은 3가지로 구성되어 있습니다
 
 ### [2. hogang-yes-api](https://github.com/dsadara/hogang-yes-api)
 
+![hogang-yes-sequence drawio](https://github.com/user-attachments/assets/1303cf57-a35a-4302-beb6-4359f6a7493e)
+
+
 부동산 데이터를 조회하는 API 입니다. Spring MVC로 사용자의 HTTP 요청을 처리합니다.   
 
 추후 코드의 변경이 많을 수 있다 판단이 들어서 CI/CD를 도입했습니다.   
