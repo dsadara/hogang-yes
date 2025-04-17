@@ -6,6 +6,19 @@
 
 *p.s. 호갱예스는 실제 서비스인 호갱노노와 같이 훌륭한 서비스를 만들고자 지은 이름입니다.* 🙂
 
+## 서비스 UI
+### 와이어프레임
+![main page](https://github.com/user-attachments/assets/f7c508b6-c2cf-4761-a907-a297565b7ff7)
+![search result page](https://github.com/user-attachments/assets/cb5f8ffa-7240-42d6-9821-70eb5f27beeb)
+
+![filtering modal](https://github.com/user-attachments/assets/be69d21a-1351-4c3b-b37f-76f59268f9e4)
+![detail page](https://github.com/user-attachments/assets/7a2e0cee-1073-47aa-8552-de91c9b5f42b)   
+
+### [프로토타입 시연 링크](https://www.figma.com/proto/jVZcIxhBL1pNwhVNEK3J3Z/hogang-yes?node-id=0-1&t=6g2oNUC2eneeoSpg-1)
+버튼을 클릭하며 동적으로 UI를 시연해볼 수 있습니다.
+
+## 프로젝트 모듈
+
 이 프로젝트는 **2개의 모듈**로 구성되어 있습니다.
 
 ### [1. batch-estate-engine](https://github.com/dsadara/batch-estate-engine)
